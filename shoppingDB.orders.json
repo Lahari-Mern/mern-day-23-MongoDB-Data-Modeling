@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6a380c284547f687a1025820"
+  },
+  "orderId": 101,
+  "customerId": 1,
+  "product": "Laptop",
+  "price": 50000
+}]

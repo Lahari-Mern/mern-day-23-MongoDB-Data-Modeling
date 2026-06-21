@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6a2c452d6655bded75299f84"
+  },
+  "name": "Lahari",
+  "age": 19,
+  "city": "Hyderabad",
+  "product": "Laptop"
+},
+{
+  "_id": {
+    "$oid": "6a2c46986655bded75299f8a"
+  },
+  "name": "Sneha",
+  "age": 24,
+  "city": "Delhi",
+  "product": "Tablet"
+},
+{
+  "_id": {
+    "$oid": "6a380a134547f687a102581b"
+  },
+  "customerName": "Lahari",
+  "city": "Hyderabad",
+  "orders": [
+    {
+      "product": "Laptop",
+      "price": 50000
+    },
+    {
+      "product": "Mouse",
+      "price": 500
+    }
+  ]
+}]
