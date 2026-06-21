@@ -21,6 +21,3 @@ This repository contains MongoDB Data Modeling practice as part of my MERN Stack
 ## Tools Used
 - MongoDB
 - MongoDB Compass
-
-## Connect With Me
-[LinkedIn](your-linkedin-url)
