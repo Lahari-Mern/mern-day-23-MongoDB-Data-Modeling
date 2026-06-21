@@ -1,4 +1,4 @@
-# MongoDB Data Modeling 🚀
+# MongoDB Data Modeling 
 
 ## About
 This repository contains MongoDB Data Modeling practice as part of my MERN Stack Journey.
